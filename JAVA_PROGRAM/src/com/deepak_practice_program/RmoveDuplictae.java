@@ -70,7 +70,8 @@ public class RmoveDuplictae {
 			if(en.getValue()>1)
 			{
 				System.out.println(en.getValue()+ "        "+en.getKey());
-			}		
+			}
+		}
 			
 			
 			
@@ -104,6 +105,9 @@ public class RmoveDuplictae {
 	public static void main(String[] args) {
 		
 		m4();
+		m1();
+		m2();
+		m3();
 	}
 
 }
