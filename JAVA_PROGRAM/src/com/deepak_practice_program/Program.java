@@ -18,7 +18,7 @@ public class Program {
 				{
 					first=first+ch[i];
 				}
-				System.err.println(first);
+				
 			}
 		}
 		

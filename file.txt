@@ -4,3 +4,5 @@ deofbjshfkcsjkf
 bjsbfjsbfjnsjfnsn
 fhdjfhjdbfjss
 fjdhfs
+The git init command is used to initialise a new Git repository. When you run git init in a new or existing directory, Git creates a new repository in that directory. This repository will contain a .git directory, which is where Git stores all the metadata and object database for your project.
+
